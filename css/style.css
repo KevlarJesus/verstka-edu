@@ -1,0 +1,41 @@
+body {
+  font-family: Times, serif;
+  font-size: 22px;
+  line-height: 34px;
+  font-weight: 400;
+}
+
+header {
+  padding-bottom: 60px;
+
+  color: white;
+
+  background-color: #FD739C;
+}
+
+h1 {
+  margin-bottom: 35px;
+
+  font-family: "Arial", "Helvetica", sans-serif;
+  line-height: 1.4;
+}
+
+h2 {
+  font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.index-menu {
+  margin-bottom: 120px;
+}
+
+.sub-header {
+  font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.aboutme {
+  padding-top: 60px;
+}
+
+.changelog {
+  padding-top: 60px;
+}
