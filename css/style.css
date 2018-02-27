@@ -5,7 +5,7 @@ body {
   font-weight: 400;
 }
 
-header {
+.index-header {
   padding-bottom: 60px;
 
   color: white;
@@ -13,22 +13,22 @@ header {
   background-color: #FD739C;
 }
 
-h1 {
+.index-header__title {
   margin-bottom: 35px;
 
   font-family: "Arial", "Helvetica", sans-serif;
   line-height: 1.4;
 }
 
-h2 {
+.aboutme__title, .changelog__title {
   font-family: "Arial", "Helvetica", sans-serif;
 }
 
-.index-menu {
+.index-header__index-menu {
   margin-bottom: 120px;
 }
 
-.sub-header {
+.index-header__sub-title {
   font-family: "Arial", "Helvetica", sans-serif;
 }
 
